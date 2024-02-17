@@ -1,0 +1,95 @@
+*{
+    margin: 17px;
+    padding: 0px;
+    box-sizing: border-box;
+    /* outline: 1px solid red;  */
+}
+
+.H{
+    color: #1E0E62;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana,
+
+}
+
+.navbar{
+    margin-left: 9%;
+    margin-top: -36px;
+    color: #15143966;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.nav{
+    display: flex;
+    margin-top: -48px;
+    margin-left: 75%;
+    color: #15143966;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.b2{
+    margin-top: 10px;
+    background: rgb(69, 211, 199);
+    color: white;
+    border: none;
+    border-radius: 20px;
+    width: 70px;
+    height: 35px;
+    cursor: pointer;
+}
+
+.heading{
+    margin-top: 72px;
+    color: #1E0E62;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-weight: normal;
+}
+
+ .img{
+    margin-left: 68%;
+    margin-top: -120px;
+} 
+
+.parahg{
+    margin-left: 68%;
+    margin-top: -25px;
+    color: #15143966;
+}
+
+.input{
+    margin-top: -135px ;
+}
+
+.email{
+    /* background: rgb(69, 211, 199); */
+    padding-left: 9px;
+    padding-right: 9px;
+    margin-top: 3px;
+    color: rgb(150, 150, 150);
+    background: none;
+    border: none;
+    border: rgb(150, 150, 150) solid 1px;
+    border-radius: 20px;
+    outline: none;
+    width: 25%;
+    height: 35px;
+}
+
+.butt{
+    margin-top: 3px;
+    background: rgb(69, 211, 199);
+    color: white;
+    border: none;
+    border-radius: 20px;
+    width: 25%;
+    height: 35px;
+    cursor: pointer;
+}
+
+.p2{
+    margin-left: 3%;
+    margin-top: -3px;
+    font-size: small;
+    color: #15143966;
+}

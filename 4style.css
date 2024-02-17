@@ -1,0 +1,46 @@
+*{
+    margin: 17px;
+    padding: 0px;
+    box-sizing: border-box;
+    /* outline: 1px solid red;  */
+}
+
+#h3{
+    color: #1E0E62;
+}
+
+.navbar{
+    margin-left: 8%;
+    margin-top: -52px;
+    display: flex;
+    color: #15143966;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.nav{
+    margin-top: 1px;
+    margin-left: 47%;
+    cursor: pointer;
+}
+
+.navb{
+    margin-top: 1px;
+    margin-left: -1%;
+    cursor: pointer;
+}
+
+.navba{
+    margin-top: 1px;
+    margin-left: -1%;
+    cursor: pointer;
+}
+
+.h1{
+    text-align: center;
+    font-size: 25px;
+    color: #1E0E62;
+}
+
+.img{
+    margin-left: 28%;
+}
